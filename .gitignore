@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos de datos operativos: contienen información de clientes y operaciones
+Reporte 1.xlsx
+Reporte 2.xlsx
+Reporte 2 automatizado*.xlsx
+Reporte Operaciones *.xlsx
+
+# Configuración local de VS Code
+.vscode/

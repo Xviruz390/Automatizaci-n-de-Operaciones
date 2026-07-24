@@ -1,0 +1,35 @@
+{
+  "empresas": {
+    "coril": "CORIL CORREDORES DE BOLSA SAC",
+    "coril corredores de bolsa sac": "CORIL CORREDORES DE BOLSA SAC",
+    "kaizen": "KAZING GAMING SAC",
+    "kaizen gaming": "KAZING GAMING SAC",
+    "kaizen gaming sac": "KAZING GAMING SAC",
+    "kazing gaming sac": "KAZING GAMING SAC",
+    "ascensores": "ASCENSORES"
+  },
+  "ejecutivos": {
+    "dp": "PALOMINO DANIEL",
+    "dcp": "DEL CARPIO PAMELA",
+    "palomino daniel": "PALOMINO DANIEL",
+    "palomino daniuel": "PALOMINO DANIEL",
+    "astoray luis": "ASTORAY LUIS",
+    "d del carpio pamela": "DEL CARPIO PAMELA",
+    "ddel carpio pamela": "DEL CARPIO PAMELA",
+    "del carpio pamela": "DEL CARPIO PAMELA"
+  },
+  "bancos": {
+    "bbva": "BBVA",
+    "bcp": "BCP"
+  },
+  "canal_por_defecto": "PENDIENTE",
+  "documento_por_defecto": "PENDIENTE",
+  "ruc_por_empresa": {
+    "CORIL CORREDORES DE BOLSA SAC": 20201234567,
+    "KAZING GAMING SAC": 20207654321
+  },
+  "serie_por_empresa": {
+    "KAZING GAMING SAC": "F003"
+  },
+  "tipo_cliente_proveedor": ["CORIL CORREDORES DE BOLSA SAC"]
+}
